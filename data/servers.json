@@ -1,0 +1,42 @@
+[
+  {
+    "id": "exa-search",
+    "name": "Exa Search",
+    "description": "高精度ウェブ検索API。セマンティック検索に強い。",
+    "category": "research",
+    "tags": ["search", "web", "free-tier"],
+    "github_url": "https://github.com/exa-labs/exa-mcp-server",
+    "free": true,
+    "official": false
+  },
+  {
+    "id": "playwright",
+    "name": "Playwright MCP",
+    "description": "ブラウザ自動操作。スクレイピング・テストに。",
+    "category": "web",
+    "tags": ["browser", "automation", "scraping"],
+    "github_url": "https://github.com/microsoft/playwright-mcp",
+    "free": true,
+    "official": true
+  },
+  {
+    "id": "github",
+    "name": "GitHub MCP",
+    "description": "GitHubリポジトリの操作・検索。",
+    "category": "code",
+    "tags": ["git", "repository", "code"],
+    "github_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
+    "free": true,
+    "official": true
+  },
+  {
+    "id": "filesystem",
+    "name": "Filesystem MCP",
+    "description": "ローカルファイルの読み書き操作。",
+    "category": "file",
+    "tags": ["file", "local", "read", "write"],
+    "github_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+    "free": true,
+    "official": true
+  }
+]
