@@ -38,5 +38,15 @@
     "github_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
     "free": true,
     "official": true
+  },
+  {
+    "id": "pocket-drives",
+    "name": "Pocket Drives",
+    "description": "Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Remote Streamable HTTP at https://pocketdrives.ai/mcp, no auth.",
+    "category": "web",
+    "tags": ["travel", "rental", "search", "remote"],
+    "github_url": "https://github.com/RevList/pocket-drives-mcp",
+    "free": true,
+    "official": false
   }
 ]
